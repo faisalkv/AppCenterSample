@@ -1,0 +1,17 @@
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\AppCenterSample.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\AppCenterSample.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Microsoft.AppCenter.Analytics.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Microsoft.AppCenter.Crashes.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Microsoft.AppCenter.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Xamarin.Forms.Core.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Xamarin.Forms.Core.xml
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\AppCenterSample.MainPage.xaml.g.cs
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\AppCenterSample.App.xaml.g.cs
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\AppCenterSample.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\obj\Debug\AppCenterSample.pdb

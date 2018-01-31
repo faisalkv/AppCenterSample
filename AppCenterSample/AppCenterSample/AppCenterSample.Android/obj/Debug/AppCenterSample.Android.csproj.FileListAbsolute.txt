@@ -1,0 +1,93 @@
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\AppCenterSample.Android.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\AppCenterSample.Android.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\com.companyname.AppCenterSample.apk
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\com.companyname.AppCenterSample-Signed.apk
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\AppCenterSample.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\FormsViewGroup.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Microsoft.AppCenter.Analytics.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Microsoft.AppCenter.Android.Bindings.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Microsoft.AppCenter.Crashes.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Microsoft.AppCenter.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\AppCenterSample.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\FormsViewGroup.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\AppCenterSample.Android.csprojResolveAssemblyReference.cache
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\AppCenterSample.Android.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\AppCenterSample.Android.pdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\android\bin\com.companyname.AppCenterSample.apk
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\res\drawable\icon.png
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\res\layout\tabbar.xml
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\res\layout\toolbar.xml
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\res\values\styles.xml
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\R.cs.flag
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\uploadflags.txt
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\AppCenterSample.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\AppCenterSample.Android.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\android\assets\AppCenterSample.Android.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\android\assets\AppCenterSample.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample.Android\bin\Debug\AppCenterSample.Android.dll
+E:\Faisal\My Own\AppCenterSample\AppCenterSample\AppCenterSample\bin\Debug\AppCenterSample.dll
+bin\Debug\AppCenterSample.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\AppCenterSample.Android.dll.mdb
+obj\Debug\linksrc\AppCenterSample.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
